@@ -164,7 +164,7 @@ class _MyHomePageState extends State<MyHomePage> {
     In android/gradle.properties file
 
 ## Git Repo:
-    https://github.com/myvsparth/flutter_fingerprint_auth
+- https://github.com/myvsparth/flutter_fingerprint_auth
 
 ## Conclusion:
 - This article is all about fingerprint authentication in android you can also use this for ios but you need to add permission in ios which is defined in plugins documentation. You can use this authentication when you need very high level of security like making payments or any confidential transactions.
